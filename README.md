@@ -28,6 +28,7 @@ Another potential issue I had to consider was the existence of outliers in the �
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 Looking at the chart, you can see the best possible month to launch your campaign is May. May also has the highest number of failed campaigns but the percentage of successful campaigns to failed campaigns in May is higher than any other month. Launch in May!
 
 If you can’t launch your campaign in May, the second best month to lauch is June. You will notice successful campaigns trend downward from May all the way through September. The farther out you push your campaign from May, the lower your odds of successfully hitting your campaign goal. There is a slight uptick in October but it’s much better to launch well before that if at all possible. 
@@ -35,14 +36,17 @@ If you can’t launch your campaign in May, the second best month to lauch is Ju
 Furthermore, try to avoid launching in January, March, September, November, and December if you can help it. These months have the lowest number of successful campaigns.
 
 - What can you conclude about the Outcomes based on Goals?
+
 You estimate a budget of $10,000+, with this in mind, the data shows you have a 50% chance of hitting your funding goal. While we’d love to have a higher number, lowering your budget to $5,000 only slightly increases your chance of a successful campaign. 
 
 - What are some limitations of this dataset?
+
 One limitation in this data set is the lack of recent campaigns. The latest campaign data I was able to analyze is from 2016. Having more recent data may closer reflect what you can expect in your campaign. We were still able to analyze over 300 campaigns in the “play” subcategory though so we had a good data set to work with.
 
 Another limitation I ran into is that there were no cancelled campaigns for the “play” subcategory for me to analyze, as mentioned above. Having no cancelled campaigns is great news though!
 
 - What are some other possible tables and/or graphs that we could create?
+
 We could take this analysis a bit further by pulling theater subcategory information into a chart to determine the percentage of “play” campaigns compared to “spaces” and “musicals.” This would give you an idea of how many other play campaigns you may be competing with for funding.
 
 We could also run some analysis on the “play” subcategory by year to see how play campaigns fared year-by-year.
