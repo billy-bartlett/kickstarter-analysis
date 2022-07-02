@@ -9,9 +9,13 @@ The purpose of this analysis is to identify trends in the data to help you make 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/101153516/176980721-07a33f56-739c-4477-8bbe-0b59b2872f2a.png)
+
 The chart above shows the number of campaigns (successful, failed, and canceled) by month. Different colors were used to differentiate between the different categories of campaigns. 
 
 ### Analysis of Outcomes Based on Goals
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/101153516/176980732-635559e2-aaa5-4b38-a415-e29e84257bf2.png)
+
 The chart above shows the percentage of campaigns (successful, failed, and canceled) by goal range. Again, different colors were used to differentiate between the different categories of campaigns. 
 
 ### Challenges and Difficulties Encountered
